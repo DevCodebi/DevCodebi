@@ -25,6 +25,20 @@ SQL • Python • Power BI • ETL | MBA in Technology for Business (AI & Data)
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
+    </a>
+    <a href="https://www.instagram.com/elckson_c">
+        <img 
+            alt="Instagram" 
+            title="Siga-me no Instagram" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="mailto:contato@devcodebi.com">
+        <img 
+            alt="Email" 
+            title="Entre em contato por e-mail" 
+            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
     </a> 
     <!--<a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
